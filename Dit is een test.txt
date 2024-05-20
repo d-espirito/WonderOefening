@@ -1,2 +1,2 @@
 Dit is een test
-Conflict Test
+Test merge conflict
